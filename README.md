@@ -1,10 +1,23 @@
 # Next.js Dashboard
 
-A dashboard web application developed as a hands-on project using the Next.js App Router and TypeScript.
+A hands-on Next.js dashboard project based on the **Next.js App Router Course**, developed to gain practical experience with modern React and Next.js application architecture.
 
-The project explores modern React and Next.js development patterns, including authentication, protected routes, database integration, form validation, and responsive UI development.
+## 🚀 Overview
 
-## 🛠️ Tech Stack
+This project explores the development of a dashboard application using the Next.js App Router and TypeScript.
+
+The project includes practical work with:
+
+* Authentication
+* Protected routes
+* Database integration
+* Form validation
+* Password verification
+* Middleware
+* Responsive UI
+* TypeScript-based development
+
+## 🛠️ Technologies
 
 * Next.js
 * React
@@ -18,48 +31,36 @@ The project explores modern React and Next.js development patterns, including au
 
 ## 🔐 Authentication
 
-The application includes credential-based authentication using NextAuth.
+The project includes credential-based authentication and protected application flows.
 
 Authentication-related functionality includes:
 
-* User authentication
-* Password verification with bcrypt
-* Database-backed user lookup
-* Credential validation with Zod
-* Protected application routes
-* Authentication middleware
+* User credential validation
+* Password verification
+* Authentication configuration
+* Middleware-based route protection
+* Database-backed user access
 
 ## 🗄️ Database
 
-The project uses PostgreSQL for application data and user-related operations.
+The application works with PostgreSQL for database-backed functionality.
 
 ## 🎨 Frontend
 
-The interface is built with React and styled using Tailwind CSS.
+The interface is built with React and Next.js and styled using Tailwind CSS.
 
-The project uses the Next.js App Router architecture to organize application routes and components.
+The project also uses reusable components and the Next.js App Router structure.
 
-## 📚 What I Practiced
+## 📚 Learning Context
 
-This project allowed me to work hands-on with:
+This project is based on the official Next.js App Router Course starter project and was used as a hands-on learning environment to practice and understand modern Next.js concepts.
 
-* Next.js App Router
-* React components
-* TypeScript
-* Authentication
-* Middleware
-* Database integration
-* Password hashing and verification
-* Form validation
-* Tailwind CSS
-* Application structure
-
-## 📌 Project Background
-
-This project was developed as part of a structured Next.js learning project based on the Next.js App Router Course and was extended through hands-on implementation and experimentation.
+The goal was not only to follow the course structure, but to gain practical familiarity with authentication, databases, middleware, validation, and frontend application architecture.
 
 ## 👨‍💻 Author
 
-Santiago Quintero
+**Santiago Quintero**
 
-GitHub: Tero0411
+GitHub: https://github.com/Tero0411
+LinkedIn: https://www.linkedin.com/in/santiago-quintero-gonzalez-a15550332/
+Email: [santisqg@gmail.com](mailto:santisqg@gmail.com)
